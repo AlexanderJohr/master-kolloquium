@@ -69,15 +69,15 @@
      inkscape:document-units="px"
      showgrid="false"
      units="px"
-     inkscape:zoom="0.08"
-     inkscape:cx="16331.25"
-     inkscape:cy="34281.25"
+     inkscape:zoom="0.01"
+     inkscape:cx="15850"
+     inkscape:cy="48150"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g2152"
+     inkscape:current-layer="layer12"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
@@ -6995,6 +6995,22 @@
        id="image40295"
        x="8791.3018"
        y="18994.592" />
+    <image
+       width="282.60724"
+       height="636.82446"
+       preserveAspectRatio="none"
+       xlink:href="images/mockito_issue_github.png"
+       id="image152069"
+       x="4067.7678"
+       y="12160.25" />
+    <image
+       width="282.60724"
+       height="453.99478"
+       preserveAspectRatio="none"
+       xlink:href="images/mockito_stack_overflow.png"
+       id="image152083"
+       x="4350.375"
+       y="12160.25" />
   </g>
   <g
      inkscape:groupmode="layer"
